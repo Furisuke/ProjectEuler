@@ -1,0 +1,21 @@
+{
+  "name": "@furi/projecteuler",
+  "version": "0.0.1",
+  "description": "A playground to improve my coding skills.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Furisuke/ProjectEuler.git"
+  },
+  "author": "Furisuke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Furisuke/ProjectEuler/issues"
+  },
+  "homepage": "https://github.com/Furisuke/ProjectEuler#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
